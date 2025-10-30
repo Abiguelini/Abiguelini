@@ -9,9 +9,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um profissional em transição de carreira, graduado em Gastronomia e atualmente cursando **Análise e Desenvolvimento de Sistemas**.  Minha jornada me proporcionou uma combinação única de habilidades: a gestão e organização da Gastronomia, a precisão analítica da Contabilidade e a paixão pela tecnologia.
-
-Atualmente, como estagiário no **Instituto-Geral de Perícias do RS**, aplico meus conhecimentos em desenvolvimento para otimizar scripts em Google Earth Engine, focando em análise de vegetação e processamento de imagens de satélite. 
+Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em Python e Google Earth Engine, que resultou na coautoria de um artigo científico para a conferência internacional InterForensics 2025. Possuo conhecimento em Java Backend (bootcamp DIO) e certificação em automação de testes com Pytest. Minha transição de carreira me proporcionou forte capacidade analítica e de adaptação, e agora busco aplicar minhas habilidades técnicas para construir soluções de software eficientes.
 
 - 🔭 Atualmente trabalhando com **desenvolvimento e otimização de scripts geoespaciais**.
 - 🌱 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade do Vale do Rio dos Sinos (UNISINOS).
